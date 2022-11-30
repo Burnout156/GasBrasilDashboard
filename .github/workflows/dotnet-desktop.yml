@@ -60,7 +60,7 @@ jobs:
       Test_Project_Path: GasBrasilDashboard\GasBrasilDashboard\GasBrasilDashboard.csproj # Replace with the path to your test project, i.e. MyWpfApp.Tests\MyWpfApp.Tests.csproj.
       Wap_Project_Directory: GasBrasilDashboard\GasBrasilDashboard.Package    # Replace with the Wap project directory relative to the solution, i.e. MyWpfApp.Package.
       Wap_Project_Path: GasBrasilDashboard\GasBrasilDashboard.Package.wapproj.    # Replace with the path to your Wap project, i.e. MyWpf.App.Package\MyWpfApp.Package.wapproj.
-      Solution_Directory: GasBrasilDashboard\GasBrasilDashboard
+      Solution_Directory: GasBrasilDashboard\GasBrasilDashboard.sln
     steps:
     - name: Checkout
       uses: actions/checkout@v3
