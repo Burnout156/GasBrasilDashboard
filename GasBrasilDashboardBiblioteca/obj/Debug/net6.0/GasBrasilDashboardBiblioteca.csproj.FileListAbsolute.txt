@@ -1,0 +1,14 @@
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\bin\Debug\net6.0\GasBrasilDashboardBiblioteca.deps.json
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\bin\Debug\net6.0\GasBrasilDashboardBiblioteca.runtimeconfig.json
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\bin\Debug\net6.0\GasBrasilDashboardBiblioteca.dll
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\bin\Debug\net6.0\GasBrasilDashboardBiblioteca.pdb
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.csproj.AssemblyReference.cache
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.AssemblyInfoInputs.cache
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.AssemblyInfo.cs
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.csproj.CoreCompileInputs.cache
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.dll
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\refint\GasBrasilDashboardBiblioteca.dll
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.pdb
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.genruntimeconfig.cache
+E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\ref\GasBrasilDashboardBiblioteca.dll
