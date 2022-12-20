@@ -12,3 +12,17 @@ E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\ref
 E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.pdb
 E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.genruntimeconfig.cache
 E:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\ref\GasBrasilDashboardBiblioteca.dll
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\bin\Debug\net6.0\GasBrasilDashboardBiblioteca.deps.json
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\bin\Debug\net6.0\GasBrasilDashboardBiblioteca.runtimeconfig.json
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\bin\Debug\net6.0\GasBrasilDashboardBiblioteca.dll
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\bin\Debug\net6.0\GasBrasilDashboardBiblioteca.pdb
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.csproj.AssemblyReference.cache
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.AssemblyInfoInputs.cache
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.AssemblyInfo.cs
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.csproj.CoreCompileInputs.cache
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.dll
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\refint\GasBrasilDashboardBiblioteca.dll
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.pdb
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\GasBrasilDashboardBiblioteca.genruntimeconfig.cache
+F:\Projetos\GasBrasilDashboard\GasBrasilDashboardBiblioteca\obj\Debug\net6.0\ref\GasBrasilDashboardBiblioteca.dll
