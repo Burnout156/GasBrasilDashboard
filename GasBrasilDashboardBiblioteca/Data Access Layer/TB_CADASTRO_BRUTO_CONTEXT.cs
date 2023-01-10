@@ -22,6 +22,8 @@ namespace GasBrasilDashboardBiblioteca.Data_Access_Layer
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new TB_CADASTRO_BRUTO_MAP());
+            modelBuilder.ApplyConfiguration(new TB_FATURAMENTO_MAP());
+
         }
     }
 }

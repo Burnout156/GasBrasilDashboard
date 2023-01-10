@@ -7,6 +7,8 @@ builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSet
 
 builder.Services.AddOptions();
 
+builder.Services.AddScoped<AppSettings>();
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
