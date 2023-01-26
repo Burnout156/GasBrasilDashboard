@@ -3478,11 +3478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projetos\\GasBrasilDashboard\\GasBrasilDashboardBiblioteca\\GasBrasilDashboardBiblioteca.csproj",
+      "projectUniqueName": "E:\\Projetos\\GasBrasilDashboard\\GasBrasilDashboardBiblioteca\\GasBrasilDashboardBiblioteca.csproj",
       "projectName": "GasBrasilDashboardBiblioteca",
-      "projectPath": "F:\\Projetos\\GasBrasilDashboard\\GasBrasilDashboardBiblioteca\\GasBrasilDashboardBiblioteca.csproj",
+      "projectPath": "E:\\Projetos\\GasBrasilDashboard\\GasBrasilDashboardBiblioteca\\GasBrasilDashboardBiblioteca.csproj",
       "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-      "outputPath": "F:\\Projetos\\GasBrasilDashboard\\GasBrasilDashboardBiblioteca\\obj\\",
+      "outputPath": "E:\\Projetos\\GasBrasilDashboard\\GasBrasilDashboardBiblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3542,7 +3542,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

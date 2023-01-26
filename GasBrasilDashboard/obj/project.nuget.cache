@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zb++7l1ybILyI4zPHEGxcJ8ixfCc06oBuJdSmLpVJKDJjC2W/4+bdLEY3LAjUj6DGP/5SIIKtnmIcrvnT+2q9Q==",
+  "dgSpecHash": "gmJMHkP/+XejNaYXuOVUcjb/dakcJAjJ2cRJC9H3cAgj6Rz3KX5kvfHy3e1CEtKsTp7GFk4/P4FGrSW0GHnZYw==",
   "success": true,
-  "projectFilePath": "F:\\Projetos\\GasBrasilDashboard\\GasBrasilDashboard\\GasBrasilDashboard.csproj",
+  "projectFilePath": "E:\\Projetos\\GasBrasilDashboard\\GasBrasilDashboard\\GasBrasilDashboard.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -40,7 +40,7 @@
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.0\\microsoft.entityframeworkcore.design.7.0.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.0\\microsoft.entityframeworkcore.relational.7.0.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.0\\microsoft.entityframeworkcore.sqlserver.7.0.0.nupkg.sha512",
-    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.12\\microsoft.entityframeworkcore.tools.6.0.12.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.13\\microsoft.entityframeworkcore.tools.6.0.13.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

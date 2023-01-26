@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Czx+t299cKeH7rU4qQx203CGDzPgI5EAKy1PAHCiKI6t6L/vJJbXx7JjxlryJjvIyEJxbi25+dYvsIb8CBujw==",
+  "dgSpecHash": "YrHTd1NTqIoaodETJozY2/K4bJibZPNHV5ge0OozX1xPusSIK4knre7C87qYrAZCLx5Yb5gceeN/J5DEczNSaw==",
   "success": true,
-  "projectFilePath": "F:\\Projetos\\GasBrasilDashboard\\GasBrasilDashboardBiblioteca\\GasBrasilDashboardBiblioteca.csproj",
+  "projectFilePath": "E:\\Projetos\\GasBrasilDashboard\\GasBrasilDashboardBiblioteca\\GasBrasilDashboardBiblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
